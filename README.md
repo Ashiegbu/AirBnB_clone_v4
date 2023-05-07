@@ -1,4 +1,5 @@
-# <img src="https://intranet.hbtn.io/assets/holberton-logo-default-27055cb2f875eb10bf3b3942e52a24581bc0667695bdc856d4f08b469b678000.png" width="30"> AirBnB Clone V.4 - Web dynamic
+# AirBnB clone - Web dynamic
+An ALX Software Engineering programme team project. The Web Dynamic is the fourth segment of the AirBnB project that will collectively cover fundamental concepts of higher level programming.
 
 ## Synopsis
 This is the 4th version of our AirBnB clone project. We will be using python3, RESTful API, MySQL, Flask, and jQuery AJAX
@@ -70,7 +71,7 @@ No known bugs at this time.
 ###### Version 4
 
 - Chibuzo Ashiegbu - [Github](https://github.com/Ashiegbu) / [Twitter](https://twitter.com/Chi_Ash)
-- Thomas Wang - [Github](https://github.com/wambuiwambui) / [Twitter](https://twitter.com/)
+- Njoki Wambui - [Github](https://github.com/wambuiwambui) / [Twitter](https://twitter.com/)
 
 ## License
 Public Domain. No copywrite protection.
